@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FredG2210
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning VB on visual studio
